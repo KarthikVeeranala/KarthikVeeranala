@@ -17,6 +17,7 @@
 - Unreal Engine (Blueprints + C++)
 - Unity (C# — beginner)
 - Love2D (exploring)
+- PhaserJS (Expert)
 
 #### 🧠 **Programming Languages**
 - C++ (core language)
