@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Karthik V</h1>
+<h1 align="center">Hi, I'm Karthik V</h1>
 <h3 align="center">🎮 Game Dev Enthusiast | 💻 BTech CSE Student @ IARE Hyderabad</h3>
 
 ---
 
-🎓 I’m currently pursuing **BTech in Computer Science** at **IARE Hyderabad**  
-🎮 Passionate about **game development**, especially with **Unreal Engine**, **C++**, and exploring **Unity**  
-🏆 Winner of **3 hackathons** — all with game-based solutions!  
-🚀 Currently building cool games & leveling up my dev skills  
-🧠 Learning more about **AI in games**, **game physics**, and **multiplayer architecture**
+I’m currently pursuing **BTech in Computer Science** at **IARE Hyderabad**  
+Passionate about **game development**, especially with **Unreal Engine**, **C++**, and exploring **Unity**  
+Winner of **3 hackathons** — all with game-based solutions!  
+Currently building cool games & leveling up my dev skills  
+Learning more about **AI in games**, **game physics**, and **multiplayer architecture**
 
 ---
 
