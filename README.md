@@ -44,32 +44,9 @@ As **President of the Elysium Gaming Club** at IARE, I organize campus gaming cu
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR2eGk4bzA5NTFyd2dhazhodWlzMGlnNGJqbzhnNmptNHZhM2RrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif" width="40"> Player Profile // C++ Identity
-
-```cpp
-struct FKarthikVeeranala
-{
-    FString Role = TEXT("Game Developer & Game Designer");
-    FString Education = TEXT("B.Tech CSE, IARE Hyderabad (2023–2027)");
-    TArray<FString> Experience = {
-        TEXT("Unreal Engine Game Programmer Intern @ Cyrus 365 (UE 5.7 C++)"),
-        TEXT("Game Developer Intern @ Aicade (14 Playable 2D Prototypes)"),
-        TEXT("President @ Elysium Gaming Club (Gaming Events)")
-    };
-    TArray<FString> CoreCompetencies = {
-        TEXT("Unreal Engine 5 & 4 Core C++ Architecture"),
-        TEXT("Real-Time Combat Feel & 180ms i-Frame Buffering"),
-        TEXT("Isolated Win32 Subsystems & Slate/UMG Discovery"),
-        TEXT("6-DOF Newtonian Zero-G Physics & Predictive Lead AI"),
-        TEXT("Playable 2D Web Prototypes (Phaser 3 / WebGL / Matter.js)")
-    };
-    FString EngineeringPhilosophy = TEXT("Every mechanic hides a story. Every prototype is a question made playable.");
-};
-```
-
 ---
 
-## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="36"> Technical Proficiencies & Engines
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR2eGk4bzA5NTFyd2dhazhodWlzMGlnNGJqbzhnNmptNHZhM2RrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif" width="40"> Technical Proficiencies & Engines
 
 ### Engines & Frameworks
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine_5.7_/_4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/karthikv/skills/)
