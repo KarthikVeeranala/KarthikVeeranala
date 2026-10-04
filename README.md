@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHZsYnBlNmdkYWd1YmRyb28yNnhwZjJpMXNqYWwzbHJ5aW5tMWh5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BZlvPwfbvTkO2yCZkJ/giphy.gif" width="50"> Hello there, I'm Karthik Veeranala</div>
+# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHZsYnBlNmdkYWd1YmRyb28yNnhwZjJpMXNqYWwzbHJ5aW5tMWh5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BZlvPwfbvTkO2yCZkJ/giphy.gif" width="50"> Hello there, I'm Karthik V</div>
 
 
 <div align="center">
