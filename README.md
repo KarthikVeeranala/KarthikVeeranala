@@ -33,7 +33,7 @@ During my tenure as an Unreal Engine Game Programmer Intern at **Cyrus 365**, I 
 
 Over the past three years, I have spearheaded teams in 24–48 hour competitive game hackathons—winning **1st Place Overall at CodeDay 2.0**, **2nd Place at HackRush**, and **Top 3 at MLH FrostHacks**—alongside earning a **Top 45 Indie Finalist** selection at the **India Game Developer Conference (IGDC 2024)** for *City of Aethel*.
 
-As **President of the Elysium Gaming Club** at IARE, I direct campus game development bootcamps, Unreal and Unity workshops, and collegiate esports tournaments for a community of **200+ active student developers**.
+As **President of the Elysium Gaming Club** at IARE, I organize campus gaming culture and collegiate esports tournaments.
 
 > 🏆 **1st Place Overall Winner** at CodeDay 2.0 with *The Interlude* (6-DOF Zero-G Space Dogfight in UE4).<br>
 > 🥈 **2nd Place Overall Winner** at HackRush with *ByteOasis: Code to Escape* (Terminal Simulation & Environmental Puzzles).<br>
