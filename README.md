@@ -141,14 +141,14 @@ As **President of the Elysium Gaming Club** at IARE, I organize campus gaming cu
 
 Launch any of the 8 production Phaser 3 / Matter.js prototypes directly in your browser:
 
-- [⚔️ City of Aethel (IGDC Top 45 Finalist)](https://karthikveeranala.github.io/karthikv/arcade/?game=city_of_aethel) — 5-hit melee combo buffering & 180ms dodge i-frames.
-- [🎯 Total Crush: Demolition Ballistics](https://karthikveeranala.github.io/karthikv/arcade/?game=angle_trajectory_shooter) — Matter.js rigid-body destruction & parabolic trajectories.
-- [💥 Cannon Rampart](https://karthikveeranala.github.io/karthikv/arcade/?game=canon_forcareer) — Wave pacing, turret ballistics, and AOE explosion radius.
-- [🤸 Ragdoll Rampage](https://karthikveeranala.github.io/karthikv/arcade/?game=kickthebuddy) — Multi-joint skeletal ragdoll with Verlet integration.
-- [🚀 Skyward Cannon: Mobile Defense](https://karthikveeranala.github.io/karthikv/arcade/?game=vertical_canon) — Portrait arcade shooter with screen-shake feedback.
-- [🧙 Into the Beastverse](https://karthikveeranala.github.io/karthikv/arcade/?game=harrypotter) — Magic projectile homing & multi-phase boss choreography.
-- [🔦 Maze Runner](https://karthikveeranala.github.io/karthikv/arcade/?game=maze_runner) — Tilemap collision, AI patrol nodes, and vision cones.
-- [🪜 Tower Ascent: Dungeon Escape](https://karthikveeranala.github.io/karthikv/arcade/?game=vertical_maze) — Vertical platformer, ladder state machines & jump buffering.
+- [City of Aethel (IGDC Top 45 Finalist)](https://karthikveeranala.github.io/karthikv/arcade/?game=city_of_aethel) — 5-hit melee combo buffering & 180ms dodge i-frames.
+- [Total Crush: Demolition Ballistics](https://karthikveeranala.github.io/karthikv/arcade/?game=angle_trajectory_shooter) — Matter.js rigid-body destruction & parabolic trajectories.
+- [Cannon Rampart](https://karthikveeranala.github.io/karthikv/arcade/?game=canon_forcareer) — Wave pacing, turret ballistics, and AOE explosion radius.
+- [Ragdoll Rampage](https://karthikveeranala.github.io/karthikv/arcade/?game=kickthebuddy) — Multi-joint skeletal ragdoll with Verlet integration.
+- [Skyward Cannon: Mobile Defense](https://karthikveeranala.github.io/karthikv/arcade/?game=vertical_canon) — Portrait arcade shooter with screen-shake feedback.
+- [Into the Beastverse](https://karthikveeranala.github.io/karthikv/arcade/?game=harrypotter) — Magic projectile homing & multi-phase boss choreography.
+- [Maze Runner](https://karthikveeranala.github.io/karthikv/arcade/?game=maze_runner) — Tilemap collision, AI patrol nodes, and vision cones.
+- [Tower Ascent: Dungeon Escape](https://karthikveeranala.github.io/karthikv/arcade/?game=vertical_maze) — Vertical platformer, ladder state machines & jump buffering.
 
 ---
 
