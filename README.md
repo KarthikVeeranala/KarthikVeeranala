@@ -154,11 +154,11 @@ Launch any of the 8 production Phaser 3 / Matter.js prototypes directly in your 
 
 ## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="36"> Connect & Collaborate
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-karthikv-16D6BD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/karthikv/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Veeranala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/karthikveeranala/)
-[![YouTube](https://img.shields.io/badge/YouTube-@karthikkkk.v-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@karthikkkk.v)
-[![Discord](https://img.shields.io/badge/Discord-karthikkkkv-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/karthikkkkv)
-[![Email](https://img.shields.io/badge/Email-veeranalakarthik@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:veeranalakarthik@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16D6BD?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/karthikv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/karthikveeranala/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@karthikkkk.v)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/karthikkkkv)
+[![Email](https://img.shields.io/badge/Email-14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:veeranalakarthik@gmail.com)
 
 <br>
 
