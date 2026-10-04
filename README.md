@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHZsYnBlNmdkYWd1YmRyb28yNnhwZjJpMXNqYWwzbHJ5aW5tMWh5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BZlvPwfbvTkO2yCZkJ/giphy.gif" width="40"> Hello there, I'm Karthik Veeranala</div>
+# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHZsYnBlNmdkYWd1YmRyb28yNnhwZjJpMXNqYWwzbHJ5aW5tMWh5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BZlvPwfbvTkO2yCZkJ/giphy.gif" width="50"> Hello there, I'm Karthik Veeranala</div>
 
 
 <div align="center">
@@ -44,7 +44,7 @@ As **President of the Elysium Gaming Club** at IARE, I organize campus gaming cu
 
 ---
 
-## <img src="https://media.giphy.com/media/4oIphVfzbpifdWjdd7/giphy.gif" width="36"> Player Profile // C++ Identity
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR2eGk4bzA5NTFyd2dhazhodWlzMGlnNGJqbzhnNmptNHZhM2RrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif" width="40"> Player Profile // C++ Identity
 
 ```cpp
 struct FKarthikVeeranala
@@ -104,7 +104,7 @@ struct FKarthikVeeranala
 
 ---
 
-## <img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="36"> Featured Game Development Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIxb2RxN2k3bHVwaDcwMXh1bHh0MGl1a2RibnFuamg3MTk2OGozNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif" width="40"> Featured Game Development Projects
 
 <table style="width:100%">
   <tr>
