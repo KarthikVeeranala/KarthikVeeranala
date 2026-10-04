@@ -49,7 +49,7 @@ As **President of the Elysium Gaming Club** at IARE, I organize campus gaming cu
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR2eGk4bzA5NTFyd2dhazhodWlzMGlnNGJqbzhnNmptNHZhM2RrNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif" width="40"> Technical Proficiencies & Engines
 
 ### Engines & Frameworks
-[![UnrealEngine](https://img.shields.io/badge/Unreal_Engine_5.7_/_4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/karthikv/skills/)
+[![UnrealEngine](https://img.shields.io/badge/Unreal_Engine_5_/_4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/karthikv/skills/)
 [![Phaser3](https://img.shields.io/badge/Phaser_3_(WebGL)-FF6B9D?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/karthikv/arcade/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/karthikv/)
 [![MatterJS](https://img.shields.io/badge/Matter.js_Physics-4B5563?style=for-the-badge&logo=codepen&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/karthikv/arcade/)
