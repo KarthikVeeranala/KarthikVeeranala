@@ -137,7 +137,7 @@ As **President of the Elysium Gaming Club** at IARE, I organize campus gaming cu
 
 ---
 
-## <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2dienRoaGZtZnZjc2l5d3ZkbzM1NDF4OHZlYzc4MTMzdmtwbHR3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlBDoVLOGidEc/giphy.gif" width="50"> Hello there, I'm Karthik Veeranala</div>
+## <div align="left"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2dienRoaGZtZnZjc2l5d3ZkbzM1NDF4OHZlYzc4MTMzdmtwbHR3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlBDoVLOGidEc/giphy.gif" width="50">In-Browser Playable Prototypes (Direct Launch)</div>
 
 Launch any of the 8 production Phaser 3 / Matter.js prototypes directly in your browser:
 
