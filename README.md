@@ -6,7 +6,7 @@
   </a>
   <p align="center">
     <a href="https://karthikveeranala.github.io/karthikv/">
-      <img alt="Interactive Portfolio" src="https://img.shields.io/badge/Playable_Portfolio-Live_Site-0066A1?style=flat&labelColor=1f1f1f&color=56f7d2&logo=googlechrome&logoColor=white">
+      <img alt="Interactive Portfolio" src="https://img.shields.io/badge/Portfolio-Live_Site-0066A1?style=flat&labelColor=1f1f1f&color=56f7d2&logo=googlechrome&logoColor=white">
     </a>
     <a href="https://karthikveeranala.github.io/karthikv/demo-reel/">
       <img alt="Demo Reel" src="https://img.shields.io/badge/Demo_Reel-Watch_Now-red?style=flat&labelColor=1f1f1f&color=ff4757&logo=youtube&logoColor=white">
