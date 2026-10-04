@@ -70,17 +70,6 @@ As **President of the Elysium Gaming Club** at IARE, I organize campus gaming cu
 
 ---
 
-## <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="36"> Master Demo Reel (In Motion)
-
-<div align="center">
-  <a href="https://karthikveeranala.github.io/karthikv/demo-reel/">
-    <img src="https://raw.githubusercontent.com/KarthikVeeranala/karthikv/main/portfolio_media/screenshots/the_interlude/interlude_maxres_thumbnail.jpg" width="85%" alt="Watch Karthik Veeranala Gameplay Demo Reel" style="border: 2px solid #56f7d2; border-radius: 6px;" />
-  </a>
-  <p><em>Click the banner above to watch the comprehensive 2-minute Unreal Engine 5.7 C++ & Gameplay Systems Demo Reel.</em></p>
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIxb2RxN2k3bHVwaDcwMXh1bHh0MGl1a2RibnFuamg3MTk2OGozNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif" width="40"> Featured Game Development Projects
 
 <table style="width:100%">
@@ -148,7 +137,7 @@ As **President of the Elysium Gaming Club** at IARE, I organize campus gaming cu
 
 ---
 
-## 🕹️ In-Browser Playable Prototypes (Direct Launch)
+## <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2dienRoaGZtZnZjc2l5d3ZkbzM1NDF4OHZlYzc4MTMzdmtwbHR3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlBDoVLOGidEc/giphy.gif" width="50"> Hello there, I'm Karthik Veeranala</div>
 
 Launch any of the 8 production Phaser 3 / Matter.js prototypes directly in your browser:
 
