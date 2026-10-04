@@ -39,7 +39,7 @@ As **President of the Elysium Gaming Club** at IARE, I direct campus game develo
 > 🥈 **2nd Place Overall Winner** at HackRush with *ByteOasis: Code to Escape* (Terminal Simulation & Environmental Puzzles).<br>
 > 🥉 **Top 3 Overall Winner** at MLH FrostHacks with *Geek'O'Wars* (Third-Person Cyber Malware Survival).<br>
 > 🎖️ **Top 45 Indie Finalist** at India Game Developer Conference (IGDC 2024) for *City of Aethel* (5-Hit Melee & i-Frame Dodge Rolls).<br>
-> 🕹️ **President & Game Jam Director** at Elysium Gaming Club (Mentoring 200+ student game developers).
+> 🕹️ **President** at Elysium Gaming Club.
 
 ---
 
@@ -53,10 +53,10 @@ struct FKarthikVeeranala
     TArray<FString> Experience = {
         TEXT("Unreal Engine Game Programmer Intern @ Cyrus 365 (UE 5.7 C++)"),
         TEXT("Game Developer Intern @ Aicade (14 Playable 2D Prototypes)"),
-        TEXT("President @ Elysium Gaming Club (200+ Student Developers)")
+        TEXT("President @ Elysium Gaming Club (Gaming Events)")
     };
     TArray<FString> CoreCompetencies = {
-        TEXT("Unreal Engine 5.7 / 4 Core C++ Architecture"),
+        TEXT("Unreal Engine 5 & 4 Core C++ Architecture"),
         TEXT("Real-Time Combat Feel & 180ms i-Frame Buffering"),
         TEXT("Isolated Win32 Subsystems & Slate/UMG Discovery"),
         TEXT("6-DOF Newtonian Zero-G Physics & Predictive Lead AI"),
