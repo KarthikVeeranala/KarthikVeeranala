@@ -1,4 +1,5 @@
-# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw4NG1reXU3dGQ4OHFpbTA3czd4cDk2bDh3YTJjcjEyaWt4ZHc5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/35JL2FvHK04fUoSGQH/giphy.gif" width="40"> Hello there, I'm Karthik Veeranala</div>
+# <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHZsYnBlNmdkYWd1YmRyb28yNnhwZjJpMXNqYWwzbHJ5aW5tMWh5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BZlvPwfbvTkO2yCZkJ/giphy.gif" width="40"> Hello there, I'm Karthik Veeranala</div>
+
 
 <div align="center">
   <a href="https://karthikveeranala.github.io/karthikv/">
