@@ -9,7 +9,7 @@
     <a href="https://karthikveeranala.github.io/portfolio/">
       <img alt="Interactive Portfolio" src="https://img.shields.io/badge/Portfolio-Live_Site-0066A1?style=flat&labelColor=1f1f1f&color=56f7d2&logo=googlechrome&logoColor=white">
     </a>
-    <a href="https://karthikveeranala.github.io/portfolio/demo-reel/">
+    <a href="https://www.youtube.com/watch?v=jUpSlmX3T9U">
       <img alt="Demo Reel" src="https://img.shields.io/badge/Demo_Reel-Watch_Now-red?style=flat&labelColor=1f1f1f&color=ff4757&logo=youtube&logoColor=white">
     </a>
     <a href="https://karthikveeranala.github.io/portfolio/arcade/">
