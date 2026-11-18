@@ -51,13 +51,11 @@ As **President of the Elysium Gaming Club** at IARE, I organize campus gaming cu
 ### Engines & Frameworks
 [![UnrealEngine](https://img.shields.io/badge/Unreal_Engine_5_/_4-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/portfolio/skills/)
 [![Phaser3](https://img.shields.io/badge/Phaser_3_(WebGL)-FF6B9D?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/portfolio/arcade/)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/portfolio/)
 [![MatterJS](https://img.shields.io/badge/Matter.js_Physics-4B5563?style=for-the-badge&logo=codepen&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/portfolio/arcade/)
 
 ### Programming Languages & Core Systems
 [![C++](https://img.shields.io/badge/C++_17_/_20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/portfolio/skills/)
 [![Blueprints](https://img.shields.io/badge/UE_Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=56f7d2&labelColor=101010)](https://karthikveeranala.github.io/portfolio/skills/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/portfolio/)
 [![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)](https://karthikveeranala.github.io/portfolio/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://karthikveeranala.github.io/portfolio/)
 
